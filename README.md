@@ -33,11 +33,14 @@ The "silver tsunami" will have a significant impact of leaving 90,398 vacancies.
 
 Using the criteria of those born in 1965, the potential mentee list is 1,549 employees.  The gap between approximately 90,000 mentors and 1,500 mentees is significant.  
 
-Creating a new query to further investigate the gap, compare the counts of the retiring and mentor eligible counts by titles.  There is a reasonable ratio of titles between to the two tables.   It is concnerning that no managers meet the mentor eligibilty requirement.  
+## Future Area of Focus:
+Creating a new query to further investigate the gap, compare the counts of the retiring and mentor eligible counts by titles.  There is a reasonable ratio of titles between to the two tables.  It is concnerning that no managers meet the mentor eligibilty requirement.  
 
-![Pic 6](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/Retiring_count_titles.PNG) ![Pic 7](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentee_counts.csv)
+![Pic 6](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/Retiring_count_titles.PNG) ![Pic 7](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentee_counts.PNG)
 
+To move forward with the approximantly 1,500 potential mentee list as a pilot mentoring program, the list of more than 90,000 retiring employees was narrowed to close the gap of matching mentor to mentee.  The mentor list was narrowed by setting the criteria for being around age 35 when they started their current job title resulting in 5,521 employees that could be matched with the 1,549 mentees.  
 
-To move forward with the approximantly 1,500 potential mentee list, the list of more than 90,000 retiring employees was narrowed to close the gap of matching mentor to mentee.  The mentor list was narrowed by being around age 35 when they started their current job title resulting in 5,521 employees that could be matched with the 1,549 mentees.  
+![Pic 7]()
+![Pic 8](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentee_counts.PNG)
 
-Lessons form creating a mentoring program with the 1,549 mentees as a pilot program, can be studiesd and then expanded to more potential mentees by expanding the date criteria.
+Lessons form creating a mentoring pilot program with the 1,549 mentees, can be studiesd and then expanded to more potential mentees, a new list that could be created by expanding the date criteria.
