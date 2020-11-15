@@ -25,14 +25,17 @@ Employee database relationship diagram for Pewlett Hackard:
 ![Pic 4](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentor_list.PNG)
 
 ## Summary: 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The "silver tsunami" will have a significant impact of leaving 90398 vacancies.  
+### 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The "silver tsunami" will have a significant impact of leaving 90,398 vacancies.  
 
-Using the criteria of those born in 1965, the potential mentee list is 1,549 employees.  The gap between approximately 90,000 and 1,500 is significant.  
+### 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Using the criteria of those born in 1965, the potential mentee list is 1,549 employees.  The gap between approximately 90,000 mentors and 1,500 mentees is significant.  
 
 Creating a new query to further investigate the gap, compare the counts of the retiring and mentor eligible counts by titles.  There is a reasonable ratio of titles between to the two tables.   It is concnerning that no managers meet the mentor eligibilty requirement.  
+
+
 
 To move forward with the approximantly 1,500 potential mentee list, the list of more than 90,000 retiring employees was narrowed to close the gap of matching mentor to mentee.  The mentor list was narrowed by being around age 35 when they started their current job title resulting in 5,521 employees that could be matched with the 1,549 mentees.  
 
