@@ -22,7 +22,7 @@ Employee database relationship diagram for Pewlett Hackard:
 
 
 4. Mentor Eligibility List of 1549 employees born in 1965.
-![Pic 4](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentor_list.PNG)
+![Pic 5](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentor_list.PNG)
 
 ## Summary: 
 ### 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
@@ -35,6 +35,7 @@ Using the criteria of those born in 1965, the potential mentee list is 1,549 emp
 
 Creating a new query to further investigate the gap, compare the counts of the retiring and mentor eligible counts by titles.  There is a reasonable ratio of titles between to the two tables.   It is concnerning that no managers meet the mentor eligibilty requirement.  
 
+![Pic 6](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/Retiring_count_titles.PNG) ![Pic 7](https://github.com/Baylex/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/mentee_counts.csv)
 
 
 To move forward with the approximantly 1,500 potential mentee list, the list of more than 90,000 retiring employees was narrowed to close the gap of matching mentor to mentee.  The mentor list was narrowed by being around age 35 when they started their current job title resulting in 5,521 employees that could be matched with the 1,549 mentees.  
